@@ -1,6 +1,6 @@
 
 public class ModificarLista{
-	//
+	///
 	
 	    //variables de instancia
 	    //lista general donde se encuentran todas las listas
