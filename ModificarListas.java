@@ -1,5 +1,5 @@
 
-public class ModificarLista{
+public class ModificarListas{
 	///
 	
 	    //variables de instancia
